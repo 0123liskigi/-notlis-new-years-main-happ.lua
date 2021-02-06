@@ -5,6 +5,7 @@ if syn and not syn.run_secure_function then
 end
 if not getloadedmodules then
     game:GetService("Players").LocalPlayer:Kick("your exploit is not supported please join the discord for help https://discord.gg/7Eu9kuZjKv (lis-script.discord)")
+    Use Krnl Or Synapse X to update the script
 end
 if shared.yes then
     return
